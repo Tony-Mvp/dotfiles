@@ -1,8 +1,0 @@
-[2025-Dec-27 01:39:22.468 +00:00][ 2541: 2541][info ] Logging initialized
-[2025-Dec-27 01:39:22.468 +00:00][ 2541: 2541][info ] Initializing krisp SDK...
-[2025-Dec-27 01:39:22.468 +00:00][ 2541: 2541][info ] DoKrispInitialize
-[2025-Dec-27 01:39:22.965 +00:00][ 2541: 2541][info ] LoadDynamicKrisp
-[2025-Dec-27 01:39:22.965 +00:00][ 2541: 2541][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
-[2025-Dec-27 01:39:22.965 +00:00][ 2541: 2541][info ] Initializing Krisp SDK in PID 2541, addr 0x7f3a7835cf90
-[2025-Dec-27 01:39:22.966 +00:00][ 2541: 2541][info ] Initialized Krisp SDK successfully
-[2025-Dec-27 01:39:22.966 +00:00][ 2541: 2541][info ] Krisp SDK initialized

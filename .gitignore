@@ -1,0 +1,8 @@
+# Discord (NO subir nunca)
+discord/
+config/discord/
+*/discord/
+Local Storage/
+leveldb/
+*.ldb
+*.log
